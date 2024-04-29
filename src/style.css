@@ -1,3 +1,32 @@
-.hello {
+.container {
     color: red;
 }
+
+.about-me {
+    color: blue;
+}
+
+.portfolio {
+    color: green;
+}
+
+.contact {
+    color: purple;
+}
+
+.social-button {
+    display: inline-block;
+    padding: 0; /* Remove default padding */
+    border: none; /* Remove default border */
+    background: none; /* Remove default background */
+    cursor: pointer; /* Show pointer cursor on hover */
+  }
+  
+  .social-icon {
+    width: 40px; /* Adjust the width of the icon */
+    height: auto; /* Maintain aspect ratio */
+  }
+  
+  .links-right {
+    text-align: right;
+  }

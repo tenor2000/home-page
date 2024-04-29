@@ -1,21 +1,44 @@
-import _ from 'lodash';
 import './style.css';
-import printMe from './print.js';
+import PageLayout from './layout.js';
+import { AboutMeContent, PortfolioContent, ContactContent, AsideContent } from './content.js';
 
-function component() {
-    const element = document.createElement('div');
-    const btn = document.createElement('button');
-  
-    // Lodash, now imported by this script
-    element.innerHTML = _.join(['Hello', 'webpack'], ' ');
-    element.classList.add('hello');
+// Information Content
+const bioText = 'I am an awesome coder';
+const myGithubProfile = 'https://github.com/tenor2000';
+const myLinkedinProfile = 'https://www.linkedin.com/in/gregory-jung/';
 
-    btn.innerHTML = 'Click me and check the console!';
-    btn.onclick = printMe;
-    
-    element.appendChild(btn);
-  
-    return element;
-  }
-  
-  document.body.appendChild(component());
+// End Information Content
+
+const container = document.createElement('div');
+container.classList.add('container');
+document.body.appendChild(container);
+
+const webpage = PageLayout(container)
+
+//About Me section
+const firstDiv = webpage.createDiv('about-me');
+const aboutMe = AboutMeContent(firstDiv);
+const headshot = ''; // find an image file src
+aboutMe.addPhoto(headshot);
+
+aboutMe.addInfo(bioText)
+
+aboutMe.addSocials('github', myGithubProfile);
+aboutMe.addSocials('linkedin', myLinkedinProfile);
+
+// Portfolio section
+const secondDiv = webpage.createDiv('portfolio');
+const myPortfolio = PortfolioContent(secondDiv);
+myPortfolio.getData();
+
+
+
+// WIP Project cards go here
+// Read data fron JSON
+// // Connect to json
+
+// }
+
+// Contact section
+const thirdDiv = webpage.createDiv('contact');
+const myContact = contactContent(thirdDiv);
