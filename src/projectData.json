@@ -1,0 +1,98 @@
+[
+  {
+    "title": "Battleship",
+    "language": "JavaScript",
+    "link": "https://tenor2000.github.io/battleship/",
+    "codelink": "https://github.com/tenor2000/battleship",
+    "screenshot": "https://dl.dropbox.com/scl/fi/l12bfgmou1vcd197xwjw6/battleship.png?rlkey=rcasmhr14t4iwty62f68yjrst&dl=0",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  },
+  {
+    "title": "Knight Trevails",
+    "language": "JavaScript",
+    "link": "https://github.com/tenor2000/Knights-Trevail",
+    "codelink": "https://github.com/tenor2000/Knights-Trevail",
+    "screenshot": "https://dl.dropbox.com/scl/fi/l12bfgmou1vcd197xwjw6/battleship.png?rlkey=rcasmhr14t4iwty62f68yjrst&dl=0",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  },
+  {
+    "title": "Binary Search Tree",
+    "language": "JavaScript",
+    "link": "https://github.com/tenor2000/binary-search-tree-js",
+    "codelink": "https://github.com/tenor2000/binary-search-tree-js",
+    "screenshot": "https://dl.dropbox.com/scl/fi/l12bfgmou1vcd197xwjw6/battleship.png?rlkey=rcasmhr14t4iwty62f68yjrst&dl=0",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  },
+  {
+    "title": "Hash Map",
+    "language": "JavaScript",
+    "link": "https://tenor2000.github.io/hash-map/",
+    "codelink": "https://github.com/tenor2000/hash-map",
+    "screenshot": "https://www.dropbox.com/scl/fi/l12bfgmou1vcd197xwjw6/battleship.png?rlkey=rcasmhr14t4iwty62f68yjrst&dl=0",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  },
+  {
+    "title": "Weather API",
+    "language": "HTML, JavaScript, CSS",
+    "link": "https://tenor2000.github.io/weather-api-app/",
+    "codelink": "https://github.com/tenor2000/weather-api-app",
+    "screenshot": "https://dl.dropbox.com/scl/fi/l12bfgmou1vcd197xwjw6/battleship.png?rlkey=rcasmhr14t4iwty62f68yjrst&dl=0",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  },
+  {
+    "title": "ToDo App",
+    "language": "HTML, JavaScript, CSS",
+    "link": "https://tenor2000.github.io/weather-api-app/",
+    "codelink": "https://github.com/tenor2000/weather-api-app",
+    "screenshot": "https://dl.dropbox.com/scl/fi/l12bfgmou1vcd197xwjw6/battleship.png?rlkey=rcasmhr14t4iwty62f68yjrst&dl=0",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  },
+  {
+    "title": "Restaurant Page",
+    "language": "HTML, JavaScript, CSS",
+    "link": "https://tenor2000.github.io/restaurant-page/",
+    "codelink": "https://github.com/tenor2000/restaurant-page",
+    "favor": false,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  },
+  {
+    "title": "Tic-Tac-Toe",
+    "language": "HTML, JavaScript, CSS",
+    "link": "https://tenor2000.github.io/tic-tac-toe-js/",
+    "codelink": "https://github.com/tenor2000/tic-tac-toe-js",
+    "favor": false,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  },
+  {
+    "title": "Library App",
+    "language": "HTML, JavaScript, CSS",
+    "link": "https://tenor2000.github.io/library-app-js/",
+    "codelink": "https://github.com/tenor2000/library-app-js",
+    "favor": false,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  },
+  {
+    "title": "Sign Up Forms",
+    "language": "HTML, JavaScript, CSS",
+    "link": "https://tenor2000.github.io/sign-up-form/",
+    "codelink": "https://github.com/tenor2000/sign-up-form",
+    "favor": false,
+    "description": "The Simple Calculator app is a basic calculator designed to perform arithmetic operations such as addition, subtraction, multiplication, and division. It provides a user-friendly interface with a keypad for input and a display area to show the input expression and result. The calculator supports both keyboard and mouse input, allowing users to interact with it conveniently."
+  },
+  {
+    "title": "Calculator",
+    "language": "HTML, JavaScript, CSS",
+    "link": "https://tenor2000.github.io/calculator-js/",
+    "codelink": "https://github.com/tenor2000/calculator-js",
+    "favor": false,
+    "description": "The Simple Calculator app is a basic calculator designed to perform arithmetic operations such as addition, subtraction, multiplication, and division. It provides a user-friendly interface with a keypad for input and a display area to show the input expression and result. The calculator supports both keyboard and mouse input, allowing users to interact with it conveniently."
+  },
+  {
+    "title": "Etch-a-Sketch",
+    "language": "HTML, JavaScript, CSS",
+    "link": "https://tenor2000.github.io/etch-a-sketch/",
+    "codelink": "https://github.com/tenor2000/etch-a-sketch",
+    "favor": false,
+    "description": "The Etch-a-Sketch app is a dynamic drawing tool created using JavaScript and CSS. Users can draw on a grid by clicking and dragging their mouse over the tiles, changing the background color as they go. The app includes features like resizing the grid, clearing the drawing area, and selecting different colors from a palette. Through building this project, I gained hands-on experience in event handling, DOM manipulation, and CSS styling, enhancing my skills in web development and interactive design."
+  }
+]
